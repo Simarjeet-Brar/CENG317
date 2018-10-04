@@ -24,18 +24,25 @@ Infrared motion Sensor:
 
 ### Week4
 - Project Budget 
-- File ()
+- click here-> ([Simarjeet_Budget.xlsx](https://github.com/Simarjeet-Brar/CENG317/files/2447549/Simarjeet_Budget.xlsx)
+)
 
 ### Week3
 - Project Schedule 
-- File (here)
+
+![project](https://user-images.githubusercontent.com/43556409/46494424-cf573200-c7e0-11e8-9879-b95b8adfc741.PNG)
+
 
 ### Week2
 
 - Project Proposal  
-- Proposal File (clickhere)
+- click here-> ([SImarjeet_Proposal.xlsx](https://github.com/Simarjeet-Brar/CENG317/files/2447551/SImarjeet_Proposal.xlsx)
+)
 
 ### Week1
 
 Introduction, Crib Pi and Choose over projects.
+
+![capture](https://user-images.githubusercontent.com/43556409/46494480-fdd50d00-c7e0-11e8-97bc-7a600500f4c3.PNG)
+
 
