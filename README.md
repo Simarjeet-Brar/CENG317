@@ -7,10 +7,11 @@ Purpose: Ecofind is the combintion of various sensors(light sensor, magnatometer
 
 ### Week8
 
-Fritzing ()
+Fritzing:
+
+![fritzing](https://user-images.githubusercontent.com/43556409/47377001-1dfe3a80-d6c2-11e8-8953-35839c53f244.PNG)
 
 Circuit:
-![fritzing](https://user-images.githubusercontent.com/43556409/47377001-1dfe3a80-d6c2-11e8-8953-35839c53f244.PNG)
 
 
 
