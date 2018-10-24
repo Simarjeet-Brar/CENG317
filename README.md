@@ -7,12 +7,30 @@ Purpose: Ecofind is the combintion of various sensors(light sensor, magnatometer
 
 ### Week8
 
-Fritzing:
+TSL2561 can have three different address:
+0X29   (by connecting ADDR pin on sensor to ground)
+0X39   (by leaving ADDR unconnected)   
+0X49   (by connecting ADDR pin on sensor to 3.3V (VCC))
 
-![fritzing](https://user-images.githubusercontent.com/43556409/47377001-1dfe3a80-d6c2-11e8-8953-35839c53f244.PNG)
+required address for this project is
+
+![sensor_addr](https://user-images.githubusercontent.com/43556409/47399135-35aae280-d705-11e8-89fb-b2faf4261037.PNG)
+
+Fritzing for required address (0X49):
+
+![fritzing](https://user-images.githubusercontent.com/43556409/47399305-e0230580-d705-11e8-8fa8-a63477c0a72f.PNG)
+
 
 Circuit:
 
+![whatsapp image 2018-10-23 at 8 56 00 pm](https://user-images.githubusercontent.com/43556409/47399397-3f811580-d706-11e8-989f-6016035ddd46.jpeg)
+
+
+Address:
+
+![whatsapp image 2018-10-23 at 8 56 14 pm](https://user-images.githubusercontent.com/43556409/47399405-47d95080-d706-11e8-8f36-fcb16b12f528.jpeg)
+
+![capture](https://user-images.githubusercontent.com/43556409/47399136-380d3c80-d705-11e8-99d8-7579be8f5091.PNG)
 
 
 ### Week7
