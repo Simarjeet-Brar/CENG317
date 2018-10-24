@@ -28,8 +28,6 @@ Circuit:
 
 Address:
 
-![whatsapp image 2018-10-23 at 8 56 14 pm](https://user-images.githubusercontent.com/43556409/47399405-47d95080-d706-11e8-8f36-fcb16b12f528.jpeg)
-
 ![capture](https://user-images.githubusercontent.com/43556409/47399136-380d3c80-d705-11e8-99d8-7579be8f5091.PNG)
 
 
