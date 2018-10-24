@@ -18,8 +18,7 @@ required address for this project is
 
 Fritzing for required address (0X49):
 
-![fritzing](https://user-images.githubusercontent.com/43556409/47399305-e0230580-d705-11e8-8fa8-a63477c0a72f.PNG)
-
+![fritzing](https://user-images.githubusercontent.com/43556409/47450891-51a99500-d794-11e8-9b14-d41651175b60.PNG)
 
 Circuit:
 
