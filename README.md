@@ -9,7 +9,7 @@ Purpose: Ecofind is the combintion of various sensors(light sensor, magnatometer
 
 TSL2561 can have three different address:
 - 0X29   (by connecting ADDR pin on sensor to ground)
-- 0X39   (by leaving ADDR unconnected)   
+- 0X39   (by leaving ADDR pin on sensor unconnected)   
 - 0X49   (by connecting ADDR pin on sensor to 3.3V (VCC))
 
 required address for this project is
