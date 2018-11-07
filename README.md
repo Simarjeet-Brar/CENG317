@@ -5,6 +5,20 @@ Ecofind: Wild Animals Tracker
 
 Purpose: Ecofind is the combintion of various sensors(light sensor, magnatometer, accelerometer) and is used to track wild animals their moments, other fetures like temperature location. It is the cheapet and easiest way to study animals in the wild. This process is used helpful to scientifi researcher and wildlife experts to study animals it cathes reading using ensors and sends it over to a moblie application to oberve relatively fine-scale movements.
 
+### Week10
+
+
+![top view](https://user-images.githubusercontent.com/43556409/48143713-664e5880-e27d-11e8-8d18-8a5d21c98186.jpeg)
+
+
+![bottomview](https://user-images.githubusercontent.com/43556409/48143707-63536800-e27d-11e8-87f8-70282208b356.jpeg)
+
+
+![sensor](https://user-images.githubusercontent.com/43556409/48143710-651d2b80-e27d-11e8-8830-a61f56cba8d6.jpeg)
+
+
+
+
 ### Week9
 
 PCB Circuit
