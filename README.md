@@ -7,13 +7,13 @@ Purpose: Ecofind is the combintion of various sensors(light sensor, magnatometer
 
 ### Week10
 
-
+## PCB Top View
 ![top view](https://user-images.githubusercontent.com/43556409/48143713-664e5880-e27d-11e8-8d18-8a5d21c98186.jpeg)
 
-
+## PCB From Bottom
 ![bottomview](https://user-images.githubusercontent.com/43556409/48143707-63536800-e27d-11e8-87f8-70282208b356.jpeg)
 
-
+## Sensor
 ![sensor](https://user-images.githubusercontent.com/43556409/48143710-651d2b80-e27d-11e8-8830-a61f56cba8d6.jpeg)
 
 
