@@ -1,9 +1,26 @@
 ## Simarjeet Brar
 
+
 ### Project
 Ecofind: Wild Animals Tracker
 
 Purpose: Ecofind is the combintion of various sensors(light sensor, magnatometer, accelerometer) and is used to track wild animals their moments, other fetures like temperature location. It is the cheapet and easiest way to study animals in the wild. This process is used helpful to scientifi researcher and wildlife experts to study animals it cathes reading using ensors and sends it over to a moblie application to oberve relatively fine-scale movements.
+
+# Table of Contents:
+
+1. [ Week 1 ] (#Week-1)
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+
+### Week11
+
 
 ### Week11
 
