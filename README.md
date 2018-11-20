@@ -8,7 +8,7 @@ Purpose: Ecofind is the combintion of various sensors(light sensor, magnatometer
 
 # Table of Contents:
 
-1. [ Week 1 ] (#Week-1)
+1. [ Week1 ] (#Week-1)
 2.
 3.
 4.
