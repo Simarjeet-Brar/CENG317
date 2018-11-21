@@ -21,6 +21,13 @@ I am running python script to extract readings from my Light Sensor. First I mad
 
 ### Week10
 
+## 
+- Budget Updated
+- click here-> ([Simarjeet_Budget_updated.xlsx](https://github.com/Simarjeet-Brar/CENG317/files/2605535/Simarjeet_Budget_updated.xlsx))
+
+
+
+
 ## PCB Top View
 ![top view](https://user-images.githubusercontent.com/43556409/48143713-664e5880-e27d-11e8-8d18-8a5d21c98186.jpeg)
 
