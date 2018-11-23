@@ -13,6 +13,12 @@ Purpose: Ecofind is the combintion of various sensors(light sensor, magnatometer
 
 ### Week11
 
+Python Script Download[here]
+
+Python Code:
+
+![tsl2561](https://user-images.githubusercontent.com/43556409/48960512-34a2e600-ef3b-11e8-8d4a-ab51ba678b93.png)
+
 Sensor Readings 
 I am running python script to extract readings from my Light Sensor. First I made the made printed circuit to connect sensor with raspberrypi at address 0X49. After my sensor was at the rigth address I run the python code to get readings I am reading both visible and infrared light readings as below:
 
