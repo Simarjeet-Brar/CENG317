@@ -9,11 +9,16 @@ Purpose: Ecofind is the combintion of various sensors(light sensor, magnatometer
 
 ### Week12
 
+
 ![img_3452](https://user-images.githubusercontent.com/43556409/48805777-4a6b9d80-ece6-11e8-8e81-ae2b4b78401c.JPG)
 
 ### Week11
 
-Python Script Download[here]
+Progress report:
+
+Python Script Download [here] (https://github.com/Simarjeet-Brar/CENG317/tree/master/TSL2561%20Scripts/TSL2561%20Scripts)
+
+Reference: [Control Everything Community](https://github.com/ControlEverythingCommunity/TSL2561)
 
 Python Code:
 
@@ -27,7 +32,6 @@ I am running python script to extract readings from my Light Sensor. First I mad
 
 ### Week10
 
-## 
 - Budget Updated
 - click here-> ([Simarjeet_Budget_updated.xlsx](https://github.com/Simarjeet-Brar/CENG317/files/2605535/Simarjeet_Budget_updated.xlsx))
 
