@@ -16,7 +16,7 @@ Purpose: Ecofind is the combintion of various sensors(light sensor, magnatometer
 
 Progress report:
 
-Python Script Download [here](https://github.com/SimarjeetBrar/CENG317/blob/master/TSL2561%20Scripts/TSL2561%20Scripts/Python/TSL2561.py)
+Python Script Download [here](https://github.com/Simarjeet-Brar/CENG317/tree/master/TSL2561%20Scripts/TSL2561%20Scripts/Python)
 
 Reference: [Control Everything Community](https://github.com/ControlEverythingCommunity/TSL2561)
 
