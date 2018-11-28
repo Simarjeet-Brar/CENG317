@@ -75,11 +75,12 @@ Don't worry if you don't know whats going on follow these instructions:
 once you get the address open terminal on pi type the following command:
 
 <b>i2cdetect -y 1</b>
+
 you will get the following output:
 
 ![address](https://user-images.githubusercontent.com/43556409/49120993-e49a8b00-f27c-11e8-89f5-d8e9b2702336.PNG)
 
-if not there is something worng with your circuit.
+If you didn't get the same output, there is something worng with your circuit.
 
 # PCB and Soldring
 
@@ -87,4 +88,13 @@ Now that you know how to connect your sensor to raspberry pi you can start worki
 
 ![f](https://user-images.githubusercontent.com/43556409/49121140-6c809500-f27d-11e8-824c-f51ebca9b143.png)
 
-The wires that are yellow in colour are on the top side of the board and orange ones are at the bottom. It is important not to cross two wires on the same side of board or in other words are in same colour. Also, check make sure all the wires that touching pi or sensor are to be soldered on same side so should be same in colour.  
+The wires that are yellow in colour are on the top side of the board and orange ones are at the bottom. It is important not to cross two wires on the same side of board or in other words are in same colour. Also, check make sure all the wires that touching pi or sensor are to be soldered on same side hence should be same in colour.
+
+Next step is to get your PCB board made once you have got your PCB ready carefully solder socket headers to the PCB you have to very carefull.
+Safty is the first priority so it is important to know what are you working with. If you haven't done soldering before you should get nline help.
+For above design I have this PCB ready: 
+Top Side:
+![t](https://user-images.githubusercontent.com/43556409/49121551-e49b8a80-f27e-11e8-9c9d-2d7057be33c5.jpeg)
+Bottom:
+![b](https://user-images.githubusercontent.com/43556409/49121553-e5ccb780-f27e-11e8-834c-2c057a4f223c.jpeg)
+
