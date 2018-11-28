@@ -32,7 +32,7 @@ Keep on checking if there were any delays and try to work accordingly.
 
 # Mechanical Assembly
 
-- Setup raspberry pi
+## Setup raspberry pi
 
 Once you have got your raspberry pi start working on its functionality download required operating System and allow all the permissions required. if you're first time installing os on raspberry pi and don't know how to do it follow: these setps:
 
@@ -54,7 +54,7 @@ Select ‘Write’ and wait for the process to finish which may take around 20 m
 
 ---
 
-# Hardare Setup
+# Hardware Setup
 
 Once you have installed required OS and softwares in your reaspberry pi time to get your hardware ready.
 starting with connections you have to make sure your sensor is at the right address.
