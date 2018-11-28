@@ -146,5 +146,37 @@ while True:
 		time.sleep(5)
 ```
 
-As you 
+As you can see in code its geting redaings from address Ox49 and converting it into integer. I am also using a loop here which will get readings every 5 seconds.
+so can you compile and run the above code to get readings.
+
+# Data Display
+
+If you run the above script you should be able to get readings on screen......
+
+![r](https://user-images.githubusercontent.com/43556409/49171345-52da5e80-f30c-11e8-9374-0f1c3e677f76.PNG)
+
+![r2](https://user-images.githubusercontent.com/43556409/49171347-540b8b80-f30c-11e8-8c70-6986534afb44.PNG)
+
+You test sensor by changes the reading for example use your phone's flash light to raise and cover it by your hand to decrease the amount of light on your sensor.
+
+# Enclosure
+
+If you reach upto this point that means you did a great job lets see what we have achieved so far.
+Lets complete a check list:
+
+- [ ] Everything is going according to schedule
+- [ ] Raspberry pi and Sensor working as expected
+- [ ] Sensor is on right address and we are geting readings
+- [ ] Readings are changing accroring to presence of light
+
+If everything mention above is checked you are good. 
+Last but not least, you may want to build a case to protect your pi and prevent it from damage.
+
+To build case for your pi you have to software called <font color="red">Corel Draw</font>
+
+To build a case that is perfect for your pi first thing to do is to get all the measurements for example Height, Width, Length. 
+If you don't know how to use corel draw when visit their website for [help](https://www.coreldraw.com/en/pages/tutorials/coreldraw/)
+After you got your case pieces sperated using leaser cut, you can combine them to get perfect case:
+
+![c](https://user-images.githubusercontent.com/43556409/49172748-de092380-f30f-11e8-9b7a-511d0ce77400.JPG)
 
