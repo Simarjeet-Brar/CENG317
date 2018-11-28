@@ -180,3 +180,4 @@ After you got your case pieces sperated using leaser cut, you can combine them t
 
 ![c](https://user-images.githubusercontent.com/43556409/49172748-de092380-f30f-11e8-9b7a-511d0ce77400.JPG)
 
+There you now you know how to work with TSL2561 Light Sensor.
