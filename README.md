@@ -34,7 +34,7 @@ Keep on checking if there were any delays and try to work accordingly.
 
 ## Setup raspberry pi
 
-Once you have got your raspberry pi start working on its functionality download required operating System and allow all the permissions required. if you're first time installing os on raspberry pi and don't know how to do it follow: these setps:
+Once you have got your raspberry pi start working on its functionality download required operating System and allow all the permissions required. if you're first time installing os on raspberry pi and don't know how to do it follow these setps:
 
 ---
 ### Setting up Raspberry Pi
@@ -84,15 +84,15 @@ If you didn't get the same output, there is something worng with your circuit.
 
 # PCB and Soldring
 
-Now that you know how to connect your sensor to raspberry pi you can start working on PCB that is to bring circuit that you made on a board permanently. For that you have to carefully design your PCB using software called: Fritzing which will help you to design your PCB it should look like this:
+Now that you know how to connect your sensor to raspberry pi you can start working on PCB that is to bring circuit that you made on a board permanently. For that you have to carefully design your PCB using software called Fritzing which will help you to design your PCB it should look like this:
 
 ![f](https://user-images.githubusercontent.com/43556409/49121140-6c809500-f27d-11e8-824c-f51ebca9b143.png)
 
-The wires that are yellow in colour are on the top side of the board and orange ones are at the bottom. It is important not to cross two wires on the same side of board or in other words are in same colour. Also, check make sure all the wires that touching pi or sensor are to be soldered on same side hence should be same in colour.
+The wires that are yellow in colour are on the top side of the board and orange ones are at the bottom. It is important not to cross two wires on the same side of board or in other words are in same colour. Note both sensor and Rpi should be soldered on each side of the board. Also, make sure all the wires that are touching the pi pins are to be soldered on top side hence should be same in colour same(yellow) and for sensor pins are going to be at bottom.
 
 Next step is to get your PCB board made once you have got your PCB ready carefully solder socket headers to the PCB you have to very carefull.
-Safty is the first priority so it is important to know what are you working with. If you haven't done soldering before you should get nline help.
-For above design I have this PCB ready: 
+Safty is the first priority so it is important to know what are you working with. If you haven't done soldering before you should get  help from someone with experience or from youtube videos.
+For above design I have this PCB should look like this.
 Top Side:
 ![t](https://user-images.githubusercontent.com/43556409/49121551-e49b8a80-f27e-11e8-9c9d-2d7057be33c5.jpeg)
 Bottom:
@@ -157,7 +157,7 @@ If you run the above script you should be able to get readings on screen......
 
 ![r2](https://user-images.githubusercontent.com/43556409/49171347-540b8b80-f30c-11e8-8c70-6986534afb44.PNG)
 
-You test sensor by changes the reading for example use your phone's flash light to raise and cover it by your hand to decrease the amount of light on your sensor.
+You can test sensor by changeing the reading for example use your phone's flash light to raise and cover it by your hand to decrease the amount of light on your sensor.
 
 # Enclosure
 
@@ -169,7 +169,7 @@ Lets complete a check list:
 - [ ] Sensor is on right address and we are geting readings
 - [ ] Readings are changing accroring to presence of light
 
-If everything mention above is checked you are good. 
+If everything mention above is checked You're good!. 
 Last but not least, you may want to build a case to protect your pi and prevent it from damage.
 
 To build case for your pi you have to software called <font color="red">Corel Draw</font>
@@ -180,4 +180,3 @@ After you got your case pieces sperated using leaser cut, you can combine them t
 
 ![c](https://user-images.githubusercontent.com/43556409/49172748-de092380-f30f-11e8-9b7a-511d0ce77400.JPG)
 
-There you now you know how to work with TSL2561 Light Sensor.
