@@ -93,7 +93,7 @@ Now that you know how to connect your sensor to raspberry pi you can start worki
 The wires that are yellow in colour are on the top side of the board and orange ones are at the bottom. It is important not to cross two wires on the same side of board or in other words are in same colour. Note both sensor and Rpi should be soldered on each side of the board. Also, make sure all the wires that are touching the pi pins are to be soldered on top side hence should be same in colour same(yellow) and for sensor pins are going to be at bottom.
 
 Next step is to get your PCB board made once you have got your PCB ready carefully solder socket headers to the PCB you have to very carefull.
-Safty is the first priority so it is important to know what are you working with. If you haven't done soldering before you should get  help from someone with experience or from youtube videos.
+Safety is the first priority so it is important to know what are you working with. If you haven't done soldering before you should get  help from someone with experience or from youtube videos.
 For above design I have this PCB should look like this.
 
 ![t](https://user-images.githubusercontent.com/43556409/49833899-f2fea180-fd68-11e8-8358-18ec1be0048a.jpeg)	![b](https://user-images.githubusercontent.com/43556409/49833897-f134de00-fd68-11e8-8739-f2a3ebf3fe29.jpeg)
@@ -180,3 +180,4 @@ After you got your case pieces sperated using leaser cut, you can combine them t
 
 ![c](https://user-images.githubusercontent.com/43556409/49172748-de092380-f30f-11e8-9b7a-511d0ce77400.JPG)
 
+# Production Testing 
