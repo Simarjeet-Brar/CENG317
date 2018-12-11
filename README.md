@@ -96,7 +96,7 @@ Next step is to get your PCB board made once you have got your PCB ready careful
 Safty is the first priority so it is important to know what are you working with. If you haven't done soldering before you should get  help from someone with experience or from youtube videos.
 For above design I have this PCB should look like this.
 
-![t](https://user-images.githubusercontent.com/43556409/49833899-f2fea180-fd68-11e8-8358-18ec1be0048a.jpeg)		![b](https://user-images.githubusercontent.com/43556409/49833897-f134de00-fd68-11e8-8739-f2a3ebf3fe29.jpeg)
+![t](https://user-images.githubusercontent.com/43556409/49833899-f2fea180-fd68-11e8-8358-18ec1be0048a.jpeg)	![b](https://user-images.githubusercontent.com/43556409/49833897-f134de00-fd68-11e8-8739-f2a3ebf3fe29.jpeg)
 
 After that you can just attached your sensor and raspberry pi to PCB. Make sure all the wires are connected and your sensor is at the correct address.
 
