@@ -95,7 +95,9 @@ Safty is the first priority so it is important to know what are you working with
 For above design I have this PCB should look like this.
 Top Side:
 ![t](https://user-images.githubusercontent.com/43556409/49121551-e49b8a80-f27e-11e8-9c9d-2d7057be33c5.jpeg)
+
 Bottom:
+
 ![b](https://user-images.githubusercontent.com/43556409/49121553-e5ccb780-f27e-11e8-834c-2c057a4f223c.jpeg)
 
 After that you can just attached your sensor and raspberry pi to PCB. Make sure all the wires are connected and your sensor is at the correct address.
