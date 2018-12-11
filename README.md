@@ -94,6 +94,7 @@ Next step is to get your PCB board made once you have got your PCB ready careful
 Safty is the first priority so it is important to know what are you working with. If you haven't done soldering before you should get  help from someone with experience or from youtube videos.
 For above design I have this PCB should look like this.
 Top Side:
+
 ![t](https://user-images.githubusercontent.com/43556409/49833899-f2fea180-fd68-11e8-8358-18ec1be0048a.jpeg)
 
 Bottom Side:
