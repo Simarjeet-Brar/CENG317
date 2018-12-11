@@ -181,3 +181,5 @@ After you got your case pieces sperated using leaser cut, you can combine them t
 ![c](https://user-images.githubusercontent.com/43556409/49172748-de092380-f30f-11e8-9b7a-511d0ce77400.JPG)
 
 # Production Testing 
+
+For mass production level, You speed up the process by speeding up soldering part that takes most of the time in project. You could use automatic soldering machine. Testing is the main part it is important to check if the sensor is at right address to get the readings.
